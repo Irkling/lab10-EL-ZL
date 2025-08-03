@@ -1,5 +1,9 @@
+# https://github.com/Irkling/lab10-EL-ZL
+# Partner 1: Erik Liddle
+# Partner 2: Zhiheng Liu
+
 import unittest
-from calculator import *
+from calculator
 
 class TestCalculator(unittest.TestCase):
     ######### Partner 2
@@ -7,6 +11,9 @@ class TestCalculator(unittest.TestCase):
     #     fill in code
 
     # def test_subtract(self): # 3 assertions
+    #     fill in code
+    # ##########################
+
     #     fill in code
     # ##########################
 
